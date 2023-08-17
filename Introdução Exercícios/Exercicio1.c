@@ -2,6 +2,6 @@
 
 int main() {
     int x = 10;
-    printf("Variável x = %d", x);
+    printf("VariÃ¡vel x = %d", x);
     return 0;
 }
